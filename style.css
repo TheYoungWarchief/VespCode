@@ -19,10 +19,31 @@ body
 	padding: 100px;
 }
 
-.custombutton
+.custom-button
 {
-	style: border-radius: 0; 
-	background-color: #10C9C3; 
+	border-radius: 0 !important; 
+	background-color: #10C9C3 !important; 
 	border: none;
+}
+
+.about-us
+{
+	text-align: center;
+	padding: 100px;
+	padding-left: 300px;
+	padding-right: 300px;
+}
+
+.professional-skills
+{
+	background-color: #F8F9F9;
+	text-align: center;
+	padding-top: 200px;
+	padding-bottom: 200px;
+}
+
+.right-side
+{
+	background-color: #E9E9E9;
 }
 
